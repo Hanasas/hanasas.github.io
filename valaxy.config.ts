@@ -17,8 +17,24 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '迷い星のうた',
+      title: ['迷い','星','の','うた'],
     },
+
+    bg_image: {
+    enable: true,
+    url: 'bg.png',
+    dark: 'bg.png',
+    opacity: 0.2
+  },
+
+  say: {
+    enable: false,
+    api: '',
+    hitokoto: {
+      enable: false,
+      api: ''
+    }
+  },
 
     pages: [
       {

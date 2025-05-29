@@ -4,14 +4,15 @@ const url = 'https://hanasas.github.io/'
 
 export default defineSiteConfig({
   url: url,
+  favicon:'/favicon.ico',
   lang: 'zh-CN',
-  title: '「迷い星のうた」',
+  title: '大切な人といつかまた巡り会えますように',
   author: {
     name: 'Hanasas',
-    avatar: url + 'images/avatar.jpg',
+    avatar: '/avatar.png',
   },
   subtitle: '',
-  description: 'ACGN/Vtuber热爱者 // 学艺不精的独立设计师/开发者',
+  description: 'ACGN/Vtuber热爱者 学艺不精的独立设计师/开发者',
   social: [
     {
       name: 'RSS',
@@ -61,4 +62,6 @@ export default defineSiteConfig({
     methods: [
     ],
   },
+
+  
 })
