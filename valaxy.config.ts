@@ -22,8 +22,8 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     bg_image: {
     enable: true,
-    url: 'bg.png',
-    dark: 'bg.png',
+    url: '/bg.png',
+    dark: '/bg.png',
     opacity: 0.2
   },
 

@@ -6,12 +6,12 @@ export default defineSiteConfig({
   url: url,
   favicon:'/favicon.ico',
   lang: 'zh-CN',
-  title: '大切な人といつかまた巡り会えますように',
+  title: 'Hanasas\'',
   author: {
     name: 'Hanasas',
     avatar: '/avatar.png',
   },
-  subtitle: '',
+  subtitle: '大切な人といつかまた巡り会えますように',
   description: 'ACGN/Vtuber热爱者 学艺不精的独立设计师/开发者',
   social: [
     {
