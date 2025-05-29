@@ -11,7 +11,7 @@ export default defineSiteConfig({
     avatar: url + 'images/avatar.jpg',
   },
   subtitle: '',
-  description: 'ACGN/Vtuber热爱者，学艺不精的独立设计师/开发者',
+  description: 'ACGN/Vtuber热爱者 // 学艺不精的独立设计师/开发者',
   social: [
     {
       name: 'RSS',
