@@ -37,6 +37,12 @@ export default defineValaxyConfig<UserThemeConfig>({
   },
 
     pages: [
+      {
+        name: '相册',
+        url: '/albums/',
+        icon: 'i-ri-image-line',
+        color: 'dodgerblue',
+      },
       // {
       //   name: '我的小伙伴们',
       //   url: '/links/',
