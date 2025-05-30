@@ -7,7 +7,8 @@ tags:
   - Swift
   - 笔记
 top: 1
-excerpt: "文章摘要"
+excerpt: "Combine是Apple推出的响应式编程框架，旨在简化异步编程模型。它通过处理数据流和变化，允许开发者以声明式的方式编写代码，从而更容易管理异步任务、事件序列以及数据绑定。Combine不仅适用于处理网络请求、用户输入等异步操作，还与SwiftUI紧密集成，为构建现代化的iOS应用提供了强大的工具。"
+excerptAlign: left
 ---
 
 在Swift编程中，**Combine框架**是Apple在iOS 13及更高版本中引入的响应式编程框架。它提供了一套声明式的API，用于处理异步事件和数据流，使开发者能够更简洁、优雅地管理复杂的数据交互和状态变化。Combine框架采用发布者-订阅者（Publisher-Subscriber）模式，结合各种操作符（Operators），极大地简化了异步编程的复杂性。

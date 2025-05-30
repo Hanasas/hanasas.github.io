@@ -32,6 +32,9 @@ declare module 'vue-router/auto-routes' {
     '/posts/combine': RouteRecordInfo<'/posts/combine', '/posts/combine', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/posts/swift-automatic': RouteRecordInfo<'/posts/swift-automatic', '/posts/swift-automatic', Record<never, never>, Record<never, never>>,
+    '/posts/v-schedule': RouteRecordInfo<'/posts/v-schedule', '/posts/v-schedule', Record<never, never>, Record<never, never>>,
+    '/posts/v-schedule-2': RouteRecordInfo<'/posts/v-schedule-2', '/posts/v-schedule-2', Record<never, never>, Record<never, never>>,
+    '/posts/wordcloud-test': RouteRecordInfo<'/posts/wordcloud-test', '/posts/wordcloud-test', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 }
