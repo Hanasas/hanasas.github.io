@@ -5,7 +5,9 @@ const url = 'https://hanasas.github.io/'
 export default defineSiteConfig({
   url: url,
   favicon:'/favicon.ico',
-  lang: 'zh-CN',
+  lang: 'en',
+  languages:['en','zh-CN'],
+  timezone: 'Asia/Shanghai',
   title: 'Hanasas\'',
   author: {
     name: 'Hanasas',
