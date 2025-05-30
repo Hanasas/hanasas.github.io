@@ -2,14 +2,13 @@
 title: 关于我
 ---
 
-I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.
+I am a nobody working on design, programming, translation, modeling, video, graphics and many other things. Able to do all thing, so good at nothing. Hanasas this name grows out of hanasaki(花咲) in Japanese. When flower dies, its beauty reaches the peak. 
 
-If you like it, you can sponsor me in [GitHub](https://github.com/sponsors/YunYouJun) or [www.yunyoujun.cn/sponsors/](https://www.yunyoujun.cn/sponsors/).
+I am working on making it easier for vtubers/subtitlers to do some repetitive work. Check them in my blogs.
 
 ---
 
-我正在开发 [Valaxy](https://github.com/YunYouJun/valaxy) - 下一代静态博客框架。
 
-如果你喜欢它，你可以在 [GitHub](https://github.com/sponsors/YunYouJun) 或 [www.yunyoujun.cn/sponsors/](https://www.yunyoujun.cn/sponsors/) 赞助我。
+只是一个无名小卒，在设计、程序、翻译、3D建模、视频、美工等许多领域流浪。能做所有事，其实等于不会做任何事。 Hanasas这个名字脱胎于日语“hanasaki（花咲）”。当花朵凋零后，它的美也到达极点。
 
-Check out the [Valaxy | GitHub](https://github.com/YunYouJun/valaxy) for more details.
+我正在开发一些或许算得上简化vtuber或字幕制作者重复性工作的工具，如果你有兴趣，可以查看我的blog。

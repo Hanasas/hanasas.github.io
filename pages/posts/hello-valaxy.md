@@ -8,6 +8,7 @@ tags:
   - 笔记
 top: 1
 cover: /bg.png
+layout: post
 ---
 
 ## Valaxy
