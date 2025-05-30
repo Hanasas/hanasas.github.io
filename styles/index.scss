@@ -1,10 +1,47 @@
 // you can custom css here
 
+// 本地字体声明 - 思源黑体
+@font-face {
+  font-family: 'SourceHanSansSC';
+  src: url('/fonts/SourceHanSansSC-Regular-2.otf') format('opentype');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SourceHanSansSC';
+  src: url('/fonts/SourceHanSansSC-Medium-2.otf') format('opentype');
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SourceHanSansSC';
+  src: url('/fonts/SourceHanSansSC-Bold-2.otf') format('opentype');
+  font-weight: 700;
+  font-display: swap;
+}
+
+// 本地字体声明 - 思源宋体
+@font-face {
+  font-family: 'SourceHanSerifCN';
+  src: url('/fonts/SourceHanSerifCN-Regular-1.otf') format('opentype');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SourceHanSerifCN';
+  src: url('/fonts/SourceHanSerifCN-Medium-6.otf') format('opentype');
+  font-weight: 500;
+  font-display: swap;
+}
+
 // 针对 Valaxy Yun 主题的字体配置
 :root {
-  --va-font-serif: 'Source Han Serif SC', 'Noto Serif SC', Georgia, serif;
-  --va-font-sans: 'Source Han Sans SC', 'Noto Sans SC', -apple-system, sans-serif;
-  --va-font-mono: 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace;
+  --va-font-serif: 'SourceHanSerifCN', 'Noto Serif SC', Georgia, serif;
+  --va-font-sans: 'SourceHanSansSC', 'Noto Sans SC', -apple-system, sans-serif;
+  --va-font-mono: 'SF Mono', 'JetBrains Mono', 'Fira Code', monospace;
 }
 
 // 文章列表字体控制
