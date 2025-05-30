@@ -51,7 +51,7 @@ export default defineSiteConfig({
     },
     {
       name: 'E-Mail',
-      link: 'gouchengouceq@163.com',
+      link: 'mailto:gouchengouceq@163.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },

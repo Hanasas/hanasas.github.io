@@ -8,7 +8,8 @@ tags:
   - 笔记
 top: 1
 cover: /bg.png
-layout: post
+excerpt: "文章摘要"
+excerptAlign: center  # center left right justify
 ---
 
 ## Valaxy

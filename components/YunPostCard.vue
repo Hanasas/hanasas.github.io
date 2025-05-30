@@ -22,18 +22,32 @@ const postTitleClass = computed(() => {
   }
   return props.post.postTitleClass || gradientClasses.value
 })
+
+// 文章摘要对齐方式
+const excerptAlign = computed(() => {
+  return props.post.excerptAlign || 'center'
+})
 </script>
 
 <template>
   <YunCard
-    class="w-full post-card custom-post-card-active"
+    class="w-full"
     m="auto"
+    :class="post.cover ? 'post-card-image' : 'post-card'"
     overflow="hidden" :style="styles"
   >
     <div class="flex flex-1 of-hidden justify-start items-start post-card-info" w="full">
-      <!-- 头图已隐藏 -->
+      <img
+        v-if="post.cover"
+        :src="post.cover"
+        :alt="t('post.cover')"
+        width="320" height="180"
+        w="40%" h="54"
+        class="cover object-cover object-center md:shadow"
+        loading="lazy"
+      >
 
-      <div class="flex flex-col items-center relative" w="full">
+      <div class="flex flex-col items-center relative" :class="post.cover && 'h-54'" w="full">
         <AppLink
           class="post-title-link cursor-pointer"
           :to="post.path || ''"
@@ -53,7 +67,7 @@ const postTitleClass = computed(() => {
 
         <div flex="~ grow col" w="full" justify="center" items="center">
           <div v-if="post.excerpt_type === 'text'" py="1" />
-          <div v-if="post.excerpt" class="markdown-body" op="90" text="left" w="full" p="x-6 lt-sm:4 y-2" v-html="post.excerpt" />
+          <div v-if="post.excerpt" class="markdown-body" op="90" :class="`text-${excerptAlign}`" w="full" p="x-6 lt-sm:4 y-2" v-html="post.excerpt" />
           <div v-else m="b-5" />
         </div>
         <!-- <div m="b-5" /> -->
