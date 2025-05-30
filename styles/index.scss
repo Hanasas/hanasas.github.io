@@ -1,2 +1,75 @@
 // you can custom css here
 
+// 针对 Valaxy Yun 主题的字体配置
+:root {
+  --va-font-serif: 'Source Han Serif SC', 'Noto Serif SC', Georgia, serif;
+  --va-font-sans: 'Source Han Sans SC', 'Noto Sans SC', -apple-system, sans-serif;
+  --va-font-mono: 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace;
+}
+
+// 文章列表字体控制
+.post-list, .posts {
+  .post-title, .post-title a {
+    font-family: var(--va-font-sans);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  
+  .post-summary, .post-excerpt {
+    font-family: var(--va-font-sans);
+    line-height: 1.7;
+    color: var(--va-c-text-2);
+  }
+  
+  .post-meta {
+    font-family: var(--va-font-sans);
+    font-size: 0.9em;
+    color: var(--va-c-text-3);
+  }
+}
+
+// 归档页面字体
+.archive-list {
+  .archive-post-title {
+    font-family: var(--va-font-sans);
+    font-weight: 500;
+  }
+  
+  .archive-post-time {
+    font-family: var(--va-font-mono);
+    font-size: 0.85em;
+  }
+}
+
+// 分类和标签页面
+.category-list, .tag-list {
+  font-family: var(--va-font-sans);
+  
+  .category-name, .tag-name {
+    font-weight: 600;
+  }
+}
+
+// 文章内容字体
+.markdown-body, .post-content {
+  font-family: var(--va-font-serif);
+  line-height: 1.8;
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--va-font-sans);
+    font-weight: 600;
+  }
+  
+  code {
+    font-family: var(--va-font-mono);
+    background: var(--va-c-bg-soft);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+  }
+  
+  pre code {
+    background: none;
+    padding: 0;
+  }
+}
+
