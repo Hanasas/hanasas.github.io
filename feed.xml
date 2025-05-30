@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hanasas&#39;</title><description>ACGN/Vtuber热爱者 学艺不精的独立设计师/开发者</description><link>https://hanasas.github.io/</link><lastBuildDate>Fri, 30 May 2025 20:28:34 GMT</lastBuildDate><docs>https://www.rssboard.org/rss-specification</docs><generator>ZFeed 0.2.2 (https://github.com/KazariEX/zfeed)</generator><copyright>CC BY-NC-SA 4.0 2025 © Hanasas</copyright><image><url>https://hanasas.github.io/avatar.png</url><title>Hanasas&#39;</title><link>https://hanasas.github.io/</link></image><atom:link rel="self" href="https://hanasas.github.io/feed.xml" type="application/rss+xml" /><item><title>词云测试</title><guid isPermaLink="false">https://hanasas.github.io/posts/wordcloud-test</guid><link>https://hanasas.github.io/posts/wordcloud-test</link><pubDate>Fri, 30 May 2025 20:27:31 GMT</pubDate><content:encoded><![CDATA[<h1>我的技术栈词云</h1>
+<p>&lt;WordCloud :words=&quot;[<br>
+{ text: 'JavaScript', size: 40, color: '#f1e05a' },<br>
+{ text: 'Ty</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/wordcloud-test" target="_blank">https://hanasas.github.io/posts/wordcloud-test</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Swift原子化实现方式的讨论</title><guid isPermaLink="false">https://hanasas.github.io/posts/swift-automatic</guid><link>https://hanasas.github.io/posts/swift-automatic</link><pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>下面整理了一份关于 Swift 编程中如何实现原子化（atomic）的文档，从原子操作的基本概念讲起，然后介绍在 Swift 中可采用的几种常见实现方式及示例代码，供大家参考和学习。</p>
+<hr>
+<ul>
+<li></li>
+</ul>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/swift-automatic" target="_blank">https://hanasas.github.io/posts/swift-automatic</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Combine框架的理解和使用</title><guid isPermaLink="false">https://hanasas.github.io/posts/combine</guid><link>https://hanasas.github.io/posts/combine</link><pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>在Swift编程中，<strong>Combine框架</strong>是Apple在iOS 13及更高版本中引入的响应式编程框架。它提供了一套声明式的API，用于处理异步事件和数据流，使开发者能够更简洁、优雅地管理复杂的数</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/combine" target="_blank">https://hanasas.github.io/posts/combine</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>基于OCR的普适性Vtuber日程表翻译工具</title><guid isPermaLink="false">https://hanasas.github.io/posts/v-schedule-2</guid><link>https://hanasas.github.io/posts/v-schedule-2</link><pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p><em>祝 nijisanji EN 的 Victoria Brightshield 前程似锦，武运昌隆。</em><br>
+*我始终相信vtuber与观众的相遇是一种一期一会的奇迹，如果本项目能为不同国家的vtube</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/v-schedule-2" target="_blank">https://hanasas.github.io/posts/v-schedule-2</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Victoria日程表自动翻译脚本</title><guid isPermaLink="false">https://hanasas.github.io/posts/v-schedule</guid><link>https://hanasas.github.io/posts/v-schedule</link><pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<blockquote>
+<p>隶属于 vtuber 团体 nijisanji 的 Victoria Brightshield 已于2024年10月24日毕业，由是本项目失去应用场景</p>
+</blockquote>
+<p>[此项目](<a href="https://github">https://github</a></p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/v-schedule" target="_blank">https://hanasas.github.io/posts/v-schedule</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Hello, Valaxy!</title><guid isPermaLink="false">https://hanasas.github.io/posts/hello-valaxy</guid><link>https://hanasas.github.io/posts/hello-valaxy</link><pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate><content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/hello-valaxy" target="_blank">https://hanasas.github.io/posts/hello-valaxy</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item></channel></rss>
