@@ -10,6 +10,9 @@ export default defineSiteConfig({
   author: {
     name: 'Hanasas',
     avatar: '/avatar.png',
+    status: {
+      emoji: '',
+    },
   },
   subtitle: '大切な人といつかまた巡り会えますように',
   description: 'ACGN/Vtuber热爱者 学艺不精的独立设计师/开发者',
@@ -62,6 +65,4 @@ export default defineSiteConfig({
     methods: [
     ],
   },
-
-  
 })
