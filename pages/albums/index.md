@@ -5,7 +5,7 @@ updated: 2020-04-18 16:27:24
 layout: albums
 albums:
   - caption: 夕阳西下
-    url: /albums/sunset
+    url: /albums/linjiangxian
     cover: https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/meme/yun-good-alpha-compressed.png
     desc: 我想起那天夕阳下的奔跑
   - caption: 青春

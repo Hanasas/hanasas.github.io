@@ -10,6 +10,7 @@ top: 1
 cover: /bg.png
 excerpt: "文章摘要"
 excerptAlign: center  # center left right justify
+hide: true
 ---
 
 ## Valaxy
