@@ -10,8 +10,15 @@ top: 1
 cover: /bg.png
 excerpt: "文章摘要"
 excerptAlign: center  # center left right justify
-hide: true
+hide: false
+
 ---
+
+<AudioPlayer 
+  src="http://music.163.com/song/media/outer/url?id=2071935587.mp3" 
+  title="月光奏鸣曲 - 贝多芬" 
+  themeColor="#8E71C1"
+/>
 
 ## Valaxy
 
