@@ -1,0 +1,283 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Hanasas'",
+  "home_page_url": "https://hanasas.github.io/",
+  "feed_url": "https://hanasas.github.io/feed.json",
+  "description": "ACGN/Vtuber热爱者 学艺不精的独立设计师/开发者",
+  "icon": "https://hanasas.github.io/avatar.png",
+  "favicon": "https://hanasas.github.io/favicon.svg",
+  "authors": [
+    {
+      "name": "Hanasas",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://hanasas.github.io/posts/wordcloud-test",
+      "url": "https://hanasas.github.io/posts/wordcloud-test",
+      "title": "词云测试",
+      "content_html": "<h1>我的技术栈词云</h1>\n<p>&lt;WordCloud :words=&quot;[<br>\n{ text: 'JavaScript', size: 40, color: '#f1e05a' },<br>\n{ text: 'Ty</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/wordcloud-test\" target=\"_blank\">https://hanasas.github.io/posts/wordcloud-test</a> to read more.</p>",
+      "date_published": "2025-06-06T01:27:15.089Z",
+      "date_modified": "2024-06-10T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/swift-automatic",
+      "url": "https://hanasas.github.io/posts/swift-automatic",
+      "title": "Swift原子化实现方式的讨论",
+      "content_html": "<p>下面整理了一份关于 Swift 编程中如何实现原子化（atomic）的文档，从原子操作的基本概念讲起，然后介绍在 Swift 中可采用的几种常见实现方式及示例代码，供大家参考和学习。</p>\n<hr>\n<ul>\n<li></li>\n</ul>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/swift-automatic\" target=\"_blank\">https://hanasas.github.io/posts/swift-automatic</a> to read more.</p>",
+      "date_published": "2025-03-22T00:00:00.000Z",
+      "date_modified": "2025-03-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/thoughts3",
+      "url": "https://hanasas.github.io/posts/thoughts3",
+      "title": "随想",
+      "content_html": "<p>毕业后会发现，那些顺利毕业、找到自己喜欢的工作或者一战上岸的人真的是少数，其实大家都过得稀里糊涂的。像是一两年没考上研没考上编的，半年就被裁员或者主动离职的，迫于压力留在家长身边找个工作凑合的，这些</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/thoughts3\" target=\"_blank\">https://hanasas.github.io/posts/thoughts3</a> to read more.</p>",
+      "date_published": "2025-02-28T00:00:00.000Z",
+      "date_modified": "2025-02-28T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/combine",
+      "url": "https://hanasas.github.io/posts/combine",
+      "title": "Combine框架的理解和使用",
+      "content_html": "<p>在Swift编程中，<strong>Combine框架</strong>是Apple在iOS 13及更高版本中引入的响应式编程框架。它提供了一套声明式的API，用于处理异步事件和数据流，使开发者能够更简洁、优雅地管理复杂的数</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/combine\" target=\"_blank\">https://hanasas.github.io/posts/combine</a> to read more.</p>",
+      "date_published": "2025-01-14T00:00:00.000Z",
+      "date_modified": "2025-01-14T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/v-schedule-2",
+      "url": "https://hanasas.github.io/posts/v-schedule-2",
+      "title": "基于OCR的普适性Vtuber日程表翻译工具",
+      "content_html": "<p><em>祝 nijisanji EN 的 Victoria Brightshield 前程似锦，武运昌隆。</em><br>\n*我始终相信vtuber与观众的相遇是一种一期一会的奇迹，如果本项目能为不同国家的vtube</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/v-schedule-2\" target=\"_blank\">https://hanasas.github.io/posts/v-schedule-2</a> to read more.</p>",
+      "date_published": "2024-11-01T00:00:00.000Z",
+      "date_modified": "2024-11-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/Braun-design",
+      "url": "https://hanasas.github.io/posts/Braun-design",
+      "title": "博朗设计笔记",
+      "content_html": "<p>减少工业化大生产带来的“艺术与生活”的断裂 - 促成了1907德意志制造联盟的创建</p>\n<p>1919包豪斯成立</p>\n<ul>\n<li>艺术与技术的新同意</li>\n<li>设计的目的是人而不是产品</li>\n<li>设计应该为全社会服务</li>\n</ul>\n<p>**系统思</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/Braun-design\" target=\"_blank\">https://hanasas.github.io/posts/Braun-design</a> to read more.</p>",
+      "date_published": "2024-10-18T00:00:00.000Z",
+      "date_modified": "2024-10-18T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/v-schedule",
+      "url": "https://hanasas.github.io/posts/v-schedule",
+      "title": "Victoria日程表自动翻译脚本",
+      "content_html": "<blockquote>\n<p>隶属于 vtuber 团体 nijisanji 的 Victoria Brightshield 已于2024年10月24日毕业，由是本项目失去应用场景</p>\n</blockquote>\n<p>[此项目](<a href=\"https://github\">https://github</a></p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/v-schedule\" target=\"_blank\">https://hanasas.github.io/posts/v-schedule</a> to read more.</p>",
+      "date_published": "2024-06-07T00:00:00.000Z",
+      "date_modified": "2024-06-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/points-culture-tech",
+      "url": "https://hanasas.github.io/posts/points-culture-tech",
+      "title": "论述：文化是科技水平最广泛体现",
+      "content_html": "<p>文化和科技水平在直觉上其实并不是直接相关的，要谈论文化和科技水平的关系，我们需要引入一个介质，这个介质就是<strong>社会</strong>。<strong>科技水平作用于社会，然后社会形成文化，文化也反作用于科技水平</strong>。</p>\n<p>根据</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/points-culture-tech\" target=\"_blank\">https://hanasas.github.io/posts/points-culture-tech</a> to read more.</p>",
+      "date_published": "2024-05-07T00:00:00.000Z",
+      "date_modified": "2024-05-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/novel-culture-tech",
+      "url": "https://hanasas.github.io/posts/novel-culture-tech",
+      "title": "小说：标题没起出来",
+      "content_html": "<p>贵州的春天与江浙不同，天气常是非常好的，连云彩也不见几片，实在适合晒书。</p>\n<p>A君这样想的，边想边又小心翼翼地掀开一页，垫上毛纸，摊在前些天学生们清理出来的大石头上，再去拿下一本。</p>\n<p>“这样好的天气，</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/novel-culture-tech\" target=\"_blank\">https://hanasas.github.io/posts/novel-culture-tech</a> to read more.</p>",
+      "date_published": "2024-04-15T00:00:00.000Z",
+      "date_modified": "2024-04-15T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/talk-anthropology-of-art",
+      "url": "https://hanasas.github.io/posts/talk-anthropology-of-art",
+      "title": "99%的艺术家都没钱",
+      "content_html": "<p>Larry认为艺术和金钱并没有本质上的关系，毕竟“99%的艺术家都没钱”，我们常常认为艺术品的价值连城，是由于其投机品的性质所携带的金融属性，而不是艺术品中真正有价值的创造力和想象力。如果艺术和价值</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/talk-anthropology-of-art\" target=\"_blank\">https://hanasas.github.io/posts/talk-anthropology-of-art</a> to read more.</p>",
+      "date_published": "2023-12-07T00:00:00.000Z",
+      "date_modified": "2023-12-07T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/thoughts2",
+      "url": "https://hanasas.github.io/posts/thoughts2",
+      "title": "随想",
+      "content_html": "<p>我时常会想起那些好似凭空消失的人民，那些没能搭上时代的巨轮，消弭于黄金时代前夜升起的薄雾的人民。宣传机器总是乐于于高楼大厦献上溢美之词，却无人把付出代价者指给在新世界的孩子们。须知，奇迹和魔法都不是</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/thoughts2\" target=\"_blank\">https://hanasas.github.io/posts/thoughts2</a> to read more.</p>",
+      "date_published": "2023-09-23T00:00:00.000Z",
+      "date_modified": "2023-09-23T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/URLSession",
+      "url": "https://hanasas.github.io/posts/URLSession",
+      "title": "Swift 在iOS设备中与ChatGPT流式交互",
+      "content_html": "<p>如果你希望在收到 ChatGPT API 的流式响应时能够实时地处理这些信息并更新视图，你可以考虑使用流式的网络请求和响应处理。这在 Swift 中可以通过使用 `URLSessionStreamT</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/URLSession\" target=\"_blank\">https://hanasas.github.io/posts/URLSession</a> to read more.</p>",
+      "date_published": "2023-05-14T00:00:00.000Z",
+      "date_modified": "2023-05-14T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/data-handle",
+      "url": "https://hanasas.github.io/posts/data-handle",
+      "title": "Swift iOS文件操作",
+      "content_html": "<p>在Swift中，可以使用<code>FileManager</code>类来处理文件路径和文件操作。</p>\n<ol>\n<li><strong>获取文件目录路径</strong>:<br>\n使用<code>FileManager.default.urls(for:in:)</code>方</li>\n</ol>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/data-handle\" target=\"_blank\">https://hanasas.github.io/posts/data-handle</a> to read more.</p>",
+      "date_published": "2023-05-14T00:00:00.000Z",
+      "date_modified": "2023-05-14T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/re-write-data",
+      "url": "https://hanasas.github.io/posts/re-write-data",
+      "title": "Swift iOS中的文件读写",
+      "content_html": "<ol>\n<li>\n<p><strong>文本文件 (.txt, .csv, .json 等)</strong>:<br>\n您可以使用<code>String</code>或<code>Data</code>来读写文本文件。以下是一个读写文本文件的示例：</p>\n<pre><code class=\"language-swift\">//</code></pre>\n</li>\n</ol>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/re-write-data\" target=\"_blank\">https://hanasas.github.io/posts/re-write-data</a> to read more.</p>",
+      "date_published": "2023-03-14T00:00:00.000Z",
+      "date_modified": "2023-03-14T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/hello-valaxy",
+      "url": "https://hanasas.github.io/posts/hello-valaxy",
+      "title": "Hello, Valaxy!",
+      "content_html": "<p>&lt;AudioPlayer<br>\nsrc=&quot;<a href=\"http://music.163.com/song/media/outer/url?id=2071935587.mp3\">http://music.163.com/song/media/outer/url?id=2071935587.mp3</a>&quot;<br>\ntitle=&quot;月光奏鸣曲 -</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/hello-valaxy\" target=\"_blank\">https://hanasas.github.io/posts/hello-valaxy</a> to read more.</p>",
+      "date_published": "2022-04-01T00:00:00.000Z",
+      "date_modified": "2022-04-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/ghosts-of-time",
+      "url": "https://hanasas.github.io/posts/ghosts-of-time",
+      "title": "我们是岁月的亡灵",
+      "content_html": "<p>我们是岁月的亡灵，我们的一生不过是清醒地穿过梦境。<br>\n夏天到了，我听说三途河畔的花开得灿烂。<br>\n梦的神和她永恒的继任者形影相随。<br>\n我见证，我反对，我主张，但我不举证。<br>\n大山不能走向穆罕默德，但穆罕默德可</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/ghosts-of-time\" target=\"_blank\">https://hanasas.github.io/posts/ghosts-of-time</a> to read more.</p>",
+      "date_published": "2021-03-02T00:00:00.000Z",
+      "date_modified": "2021-03-02T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/thoughts",
+      "url": "https://hanasas.github.io/posts/thoughts",
+      "title": "高考前的一点随想",
+      "content_html": "<p>七月二十五日，考完了期末，那天没有放假，晚自修时老师叫班上的同学到机房帮忙查分填表。我走过教学楼和综合楼之间的广场，望见了那日淡红的血色的夕阳，大概是天晚了，夕阳并不像平日看到的开阔，却仿佛含着些微</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/thoughts\" target=\"_blank\">https://hanasas.github.io/posts/thoughts</a> to read more.</p>",
+      "date_published": "2020-08-02T00:00:00.000Z",
+      "date_modified": "2020-08-02T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/haiki",
+      "url": "https://hanasas.github.io/posts/haiki",
+      "title": "敬启 有马公生君",
+      "content_html": "<p>敬启</p>\n<p>有马公生君</p>\n<p>刚刚还和你在一起，现在却给你写信，感觉怪怪的。</p>\n<p>你是个很过分的人，笨蛋，榆木脑袋，呆瓜。</p>\n<p>我第一次见到你，是在我5岁的时候，在当时我学钢琴的教室举行的钢琴赛上。一个笨拙的孩</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/haiki\" target=\"_blank\">https://hanasas.github.io/posts/haiki</a> to read more.</p>",
+      "date_published": "2020-04-01T00:00:00.000Z",
+      "date_modified": "2020-04-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://hanasas.github.io/posts/p1754",
+      "url": "https://hanasas.github.io/posts/p1754",
+      "title": "P1754 球迷购票问题题解",
+      "content_html": "<h1>原题目</h1>\n<p><a href=\"https://www.luogu.com.cn/problem/P1754\">题目地址</a></p>\n<h2>题目描述</h2>\n<p>盛况空前的足球赛即将举行。球赛门票售票处排起了球迷购票长龙。</p>\n<p>按售票</p>\n<br/><p>Visit <a href=\"https://hanasas.github.io/posts/p1754\" target=\"_blank\">https://hanasas.github.io/posts/p1754</a> to read more.</p>",
+      "date_published": "2019-03-15T00:00:00.000Z",
+      "date_modified": "2019-03-15T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "Hanasas",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}

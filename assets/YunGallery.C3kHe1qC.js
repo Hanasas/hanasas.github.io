@@ -1,0 +1,1 @@
+import{p as n,M as p,N as s,O as t}from"./framework.VTn4SQHu.js";const c=n({__name:"YunGallery",props:{photos:{}},setup(r){return(o,a)=>{const e=p("VAGallery");return t(),s(e,{photos:o.photos},null,8,["photos"])}}});export{c as default};

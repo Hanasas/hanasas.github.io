@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hanasas&#39;</title><description>ACGN/Vtuber热爱者 学艺不精的独立设计师/开发者</description><link>https://hanasas.github.io/</link><lastBuildDate>Fri, 06 Jun 2025 01:28:23 GMT</lastBuildDate><docs>https://www.rssboard.org/rss-specification</docs><generator>ZFeed 0.2.3 (https://github.com/KazariEX/zfeed)</generator><copyright>CC BY-NC-SA 4.0 2025 © Hanasas</copyright><image><url>https://hanasas.github.io/avatar.png</url><title>Hanasas&#39;</title><link>https://hanasas.github.io/</link></image><atom:link rel="self" href="https://hanasas.github.io/feed.xml" type="application/rss+xml" /><item><title>词云测试</title><guid isPermaLink="false">https://hanasas.github.io/posts/wordcloud-test</guid><link>https://hanasas.github.io/posts/wordcloud-test</link><pubDate>Fri, 06 Jun 2025 01:27:15 GMT</pubDate><content:encoded><![CDATA[<h1>我的技术栈词云</h1>
+<p>&lt;WordCloud :words=&quot;[<br>
+{ text: 'JavaScript', size: 40, color: '#f1e05a' },<br>
+{ text: 'Ty</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/wordcloud-test" target="_blank">https://hanasas.github.io/posts/wordcloud-test</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Swift原子化实现方式的讨论</title><guid isPermaLink="false">https://hanasas.github.io/posts/swift-automatic</guid><link>https://hanasas.github.io/posts/swift-automatic</link><pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>下面整理了一份关于 Swift 编程中如何实现原子化（atomic）的文档，从原子操作的基本概念讲起，然后介绍在 Swift 中可采用的几种常见实现方式及示例代码，供大家参考和学习。</p>
+<hr>
+<ul>
+<li></li>
+</ul>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/swift-automatic" target="_blank">https://hanasas.github.io/posts/swift-automatic</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>随想</title><guid isPermaLink="false">https://hanasas.github.io/posts/thoughts3</guid><link>https://hanasas.github.io/posts/thoughts3</link><pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>毕业后会发现，那些顺利毕业、找到自己喜欢的工作或者一战上岸的人真的是少数，其实大家都过得稀里糊涂的。像是一两年没考上研没考上编的，半年就被裁员或者主动离职的，迫于压力留在家长身边找个工作凑合的，这些</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/thoughts3" target="_blank">https://hanasas.github.io/posts/thoughts3</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Combine框架的理解和使用</title><guid isPermaLink="false">https://hanasas.github.io/posts/combine</guid><link>https://hanasas.github.io/posts/combine</link><pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>在Swift编程中，<strong>Combine框架</strong>是Apple在iOS 13及更高版本中引入的响应式编程框架。它提供了一套声明式的API，用于处理异步事件和数据流，使开发者能够更简洁、优雅地管理复杂的数</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/combine" target="_blank">https://hanasas.github.io/posts/combine</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>基于OCR的普适性Vtuber日程表翻译工具</title><guid isPermaLink="false">https://hanasas.github.io/posts/v-schedule-2</guid><link>https://hanasas.github.io/posts/v-schedule-2</link><pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p><em>祝 nijisanji EN 的 Victoria Brightshield 前程似锦，武运昌隆。</em><br>
+*我始终相信vtuber与观众的相遇是一种一期一会的奇迹，如果本项目能为不同国家的vtube</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/v-schedule-2" target="_blank">https://hanasas.github.io/posts/v-schedule-2</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>博朗设计笔记</title><guid isPermaLink="false">https://hanasas.github.io/posts/Braun-design</guid><link>https://hanasas.github.io/posts/Braun-design</link><pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>减少工业化大生产带来的“艺术与生活”的断裂 - 促成了1907德意志制造联盟的创建</p>
+<p>1919包豪斯成立</p>
+<ul>
+<li>艺术与技术的新同意</li>
+<li>设计的目的是人而不是产品</li>
+<li>设计应该为全社会服务</li>
+</ul>
+<p>**系统思</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/Braun-design" target="_blank">https://hanasas.github.io/posts/Braun-design</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Victoria日程表自动翻译脚本</title><guid isPermaLink="false">https://hanasas.github.io/posts/v-schedule</guid><link>https://hanasas.github.io/posts/v-schedule</link><pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<blockquote>
+<p>隶属于 vtuber 团体 nijisanji 的 Victoria Brightshield 已于2024年10月24日毕业，由是本项目失去应用场景</p>
+</blockquote>
+<p>[此项目](<a href="https://github">https://github</a></p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/v-schedule" target="_blank">https://hanasas.github.io/posts/v-schedule</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>论述：文化是科技水平最广泛体现</title><guid isPermaLink="false">https://hanasas.github.io/posts/points-culture-tech</guid><link>https://hanasas.github.io/posts/points-culture-tech</link><pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>文化和科技水平在直觉上其实并不是直接相关的，要谈论文化和科技水平的关系，我们需要引入一个介质，这个介质就是<strong>社会</strong>。<strong>科技水平作用于社会，然后社会形成文化，文化也反作用于科技水平</strong>。</p>
+<p>根据</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/points-culture-tech" target="_blank">https://hanasas.github.io/posts/points-culture-tech</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>小说：标题没起出来</title><guid isPermaLink="false">https://hanasas.github.io/posts/novel-culture-tech</guid><link>https://hanasas.github.io/posts/novel-culture-tech</link><pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>贵州的春天与江浙不同，天气常是非常好的，连云彩也不见几片，实在适合晒书。</p>
+<p>A君这样想的，边想边又小心翼翼地掀开一页，垫上毛纸，摊在前些天学生们清理出来的大石头上，再去拿下一本。</p>
+<p>“这样好的天气，</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/novel-culture-tech" target="_blank">https://hanasas.github.io/posts/novel-culture-tech</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>99%的艺术家都没钱</title><guid isPermaLink="false">https://hanasas.github.io/posts/talk-anthropology-of-art</guid><link>https://hanasas.github.io/posts/talk-anthropology-of-art</link><pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>Larry认为艺术和金钱并没有本质上的关系，毕竟“99%的艺术家都没钱”，我们常常认为艺术品的价值连城，是由于其投机品的性质所携带的金融属性，而不是艺术品中真正有价值的创造力和想象力。如果艺术和价值</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/talk-anthropology-of-art" target="_blank">https://hanasas.github.io/posts/talk-anthropology-of-art</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>随想</title><guid isPermaLink="false">https://hanasas.github.io/posts/thoughts2</guid><link>https://hanasas.github.io/posts/thoughts2</link><pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>我时常会想起那些好似凭空消失的人民，那些没能搭上时代的巨轮，消弭于黄金时代前夜升起的薄雾的人民。宣传机器总是乐于于高楼大厦献上溢美之词，却无人把付出代价者指给在新世界的孩子们。须知，奇迹和魔法都不是</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/thoughts2" target="_blank">https://hanasas.github.io/posts/thoughts2</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Swift 在iOS设备中与ChatGPT流式交互</title><guid isPermaLink="false">https://hanasas.github.io/posts/URLSession</guid><link>https://hanasas.github.io/posts/URLSession</link><pubDate>Sun, 14 May 2023 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>如果你希望在收到 ChatGPT API 的流式响应时能够实时地处理这些信息并更新视图，你可以考虑使用流式的网络请求和响应处理。这在 Swift 中可以通过使用 `URLSessionStreamT</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/URLSession" target="_blank">https://hanasas.github.io/posts/URLSession</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Swift iOS文件操作</title><guid isPermaLink="false">https://hanasas.github.io/posts/data-handle</guid><link>https://hanasas.github.io/posts/data-handle</link><pubDate>Sun, 14 May 2023 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>在Swift中，可以使用<code>FileManager</code>类来处理文件路径和文件操作。</p>
+<ol>
+<li><strong>获取文件目录路径</strong>:<br>
+使用<code>FileManager.default.urls(for:in:)</code>方</li>
+</ol>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/data-handle" target="_blank">https://hanasas.github.io/posts/data-handle</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Swift iOS中的文件读写</title><guid isPermaLink="false">https://hanasas.github.io/posts/re-write-data</guid><link>https://hanasas.github.io/posts/re-write-data</link><pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate><content:encoded><![CDATA[<ol>
+<li>
+<p><strong>文本文件 (.txt, .csv, .json 等)</strong>:<br>
+您可以使用<code>String</code>或<code>Data</code>来读写文本文件。以下是一个读写文本文件的示例：</p>
+<pre><code class="language-swift">//</code></pre>
+</li>
+</ol>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/re-write-data" target="_blank">https://hanasas.github.io/posts/re-write-data</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>Hello, Valaxy!</title><guid isPermaLink="false">https://hanasas.github.io/posts/hello-valaxy</guid><link>https://hanasas.github.io/posts/hello-valaxy</link><pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>&lt;AudioPlayer<br>
+src=&quot;<a href="http://music.163.com/song/media/outer/url?id=2071935587.mp3">http://music.163.com/song/media/outer/url?id=2071935587.mp3</a>&quot;<br>
+title=&quot;月光奏鸣曲 -</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/hello-valaxy" target="_blank">https://hanasas.github.io/posts/hello-valaxy</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>我们是岁月的亡灵</title><guid isPermaLink="false">https://hanasas.github.io/posts/ghosts-of-time</guid><link>https://hanasas.github.io/posts/ghosts-of-time</link><pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>我们是岁月的亡灵，我们的一生不过是清醒地穿过梦境。<br>
+夏天到了，我听说三途河畔的花开得灿烂。<br>
+梦的神和她永恒的继任者形影相随。<br>
+我见证，我反对，我主张，但我不举证。<br>
+大山不能走向穆罕默德，但穆罕默德可</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/ghosts-of-time" target="_blank">https://hanasas.github.io/posts/ghosts-of-time</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>高考前的一点随想</title><guid isPermaLink="false">https://hanasas.github.io/posts/thoughts</guid><link>https://hanasas.github.io/posts/thoughts</link><pubDate>Sun, 02 Aug 2020 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>七月二十五日，考完了期末，那天没有放假，晚自修时老师叫班上的同学到机房帮忙查分填表。我走过教学楼和综合楼之间的广场，望见了那日淡红的血色的夕阳，大概是天晚了，夕阳并不像平日看到的开阔，却仿佛含着些微</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/thoughts" target="_blank">https://hanasas.github.io/posts/thoughts</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>敬启 有马公生君</title><guid isPermaLink="false">https://hanasas.github.io/posts/haiki</guid><link>https://hanasas.github.io/posts/haiki</link><pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>敬启</p>
+<p>有马公生君</p>
+<p>刚刚还和你在一起，现在却给你写信，感觉怪怪的。</p>
+<p>你是个很过分的人，笨蛋，榆木脑袋，呆瓜。</p>
+<p>我第一次见到你，是在我5岁的时候，在当时我学钢琴的教室举行的钢琴赛上。一个笨拙的孩</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/haiki" target="_blank">https://hanasas.github.io/posts/haiki</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item><item><title>P1754 球迷购票问题题解</title><guid isPermaLink="false">https://hanasas.github.io/posts/p1754</guid><link>https://hanasas.github.io/posts/p1754</link><pubDate>Fri, 15 Mar 2019 00:00:00 GMT</pubDate><content:encoded><![CDATA[<h1>原题目</h1>
+<p><a href="https://www.luogu.com.cn/problem/P1754">题目地址</a></p>
+<h2>题目描述</h2>
+<p>盛况空前的足球赛即将举行。球赛门票售票处排起了球迷购票长龙。</p>
+<p>按售票</p>
+<br/><p>Visit <a href="https://hanasas.github.io/posts/p1754" target="_blank">https://hanasas.github.io/posts/p1754</a> to read more.</p>]]></content:encoded><author>i@valaxy.site (Hanasas)</author></item></channel></rss>
