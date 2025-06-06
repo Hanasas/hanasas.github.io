@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import AudioPlayer from './audioPlayer.vue'; // 假设AudioPlayer在同级目录
+import AudioPlayer from './audioPlayer.vue';
 
 export default {
   name: 'YunAdBoard',
@@ -26,5 +26,11 @@ export default {
   border-radius: 8px;
   margin: 16px 0;
   background-color: var(--el-color-primary-light-9, #f5f5f5);
+}
+
+@media (prefers-color-scheme: dark) {
+  .yun-ad-board {
+    background-color: var(--el-color-primary-light-1, #2a2a2a);
+  }
 }
 </style>

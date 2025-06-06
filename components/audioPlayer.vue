@@ -302,4 +302,48 @@ onMounted(() => {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+@media (prefers-color-scheme: dark) {
+  .audio-player {
+    background-color: #2a2a2a;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .audio-title {
+    color: #e0e0e0;
+  }
+
+  .time {
+    color: #b0b0b0;
+  }
+
+  .progress-bar {
+    background-color: #555;
+  }
+
+  .volume-slider {
+    background: #555;
+  }
+
+  .volume-slider::-webkit-slider-thumb {
+    background: var(--theme-color);
+  }
+
+  .loading-message {
+    color: #b0b0b0;
+  }
+
+  /* 确保所有图标在深色模式下具有正确的颜色 */
+  i.i-ri-volume-up-line,
+  i.i-ri-play-fill,
+  i.i-ri-pause-fill,
+  i.i-ri-loader-4-line {
+    color: #e0e0e0;
+  }
+
+  /* 确保播放按钮在深色模式下仍然具有良好的对比度 */
+  .play-button:hover {
+    background: color-mix(in srgb, var(--theme-color), black 10%);
+  }
+}
 </style>
